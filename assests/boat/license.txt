@@ -1,0 +1,11 @@
+Model Information:
+* title:	jet sprint boat
+* source:	https://sketchfab.com/3d-models/jet-sprint-boat-5b76557ed6384c5595f7a7c4e18d625d
+* author:	moto man 135 (https://sketchfab.com/csharp122705)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "jet sprint boat" (https://sketchfab.com/3d-models/jet-sprint-boat-5b76557ed6384c5595f7a7c4e18d625d) by moto man 135 (https://sketchfab.com/csharp122705) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

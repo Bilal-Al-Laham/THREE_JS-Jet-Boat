@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>My first three.js app</title>
+		
+		<style>
+			body { 
+				width: 100%;
+				height: 100%;
+				position: absolute;
+				background: #000000;
+				margin: 0;
+				padding: 0;
+				overscroll-behavior: none;
+			}
+
+		</style>
+	</head>
+	<body>
+		<script type="module" src="./js/Graphics_Boat.js"></script>
+        <script type="importmap">
+            {
+              "imports": {
+                "three": "https://cdn.jsdelivr.net/npm/three@<version>/build/three.module.js",
+                "three/addons/": "https://cdn.jsdelivr.net/npm/three@<version>/examples/jsm/"
+              }
+            } 
+          </script>
+		  <script src="https://cdn.jsdelivr.net/npm/cannon-es@0.18.0/dist/cannon-es.js"></script>
+
+	</body>
+</html>
